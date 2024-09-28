@@ -14,4 +14,14 @@ void main(){
   numbers.last;
   print(numbers.length);
 
+  var giveMeFive = true;
+  var numbers2 = [
+    1,
+    2,
+    3,
+    4,
+    if(giveMeFive) 5,
+  ]
+  //numbers.add(5) 이렇게도 함
+
 }
