@@ -12,9 +12,9 @@ String sayHello(String name, int age, String country){
 }
 
 void main(){
-  print(sayHello("철수","24","대한민국"));//좋지 않은 방식
+  print(sayHello("철수","24","대한민국"));//좋지 않은 방식 positional paramitaer
 
-  print(sayHello(//named argument 사용 방법
+  print(sayHello(//named argument 사용 방법 named paramiter
     age : 24,
     country : "터키",
     name : "훈이"
