@@ -5,7 +5,7 @@ class Player{
   int age;
 
 
-  Player({required this.name,
+  Player({required this.name,//Named Constructors Parameters
           required this.xp, 
           required this.team, 
           required this.age});//중괄호 꼭 써주기 함수랑 똑같음
