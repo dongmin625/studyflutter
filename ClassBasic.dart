@@ -1,4 +1,4 @@
-class player{
+class Player{
   String name ="철수";
   int xp =1500;
 
