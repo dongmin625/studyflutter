@@ -25,7 +25,7 @@ class Player{
 
 void main(){
 
-  var player2 = Player,createBluePlayer(//age,name 받기
+  var player2 = Player.createBluePlayer(//age,name 받기
     name : "훈이",
     age : 24,
   );
