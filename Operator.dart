@@ -1,7 +1,7 @@
 String capitalizeName(String name){ // => name.toUpperCase();null일때 toUpperCase 사용불가
   if(name != null){
     return name.toUpperCase();
-   }
+  }
   return "비어있음";
 }
 
